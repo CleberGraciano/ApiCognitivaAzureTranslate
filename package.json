@@ -1,0 +1,23 @@
+{
+  "name": "ApiCognitivaAzure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/tradutor-texto.js",
+  "scripts": {
+    "dev": "node src/tradutor-texto.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "azure",
+    "cognitive-services",
+    "translator-text"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "uuidv4": "^6.2.5"
+  }
+}
